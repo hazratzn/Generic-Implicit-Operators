@@ -1,0 +1,14 @@
+C:\Users\ASUS\Desktop\C#\SortByAge\SortByAge\bin\Debug\netcoreapp3.1\SortByAge.exe
+C:\Users\ASUS\Desktop\C#\SortByAge\SortByAge\bin\Debug\netcoreapp3.1\SortByAge.deps.json
+C:\Users\ASUS\Desktop\C#\SortByAge\SortByAge\bin\Debug\netcoreapp3.1\SortByAge.runtimeconfig.json
+C:\Users\ASUS\Desktop\C#\SortByAge\SortByAge\bin\Debug\netcoreapp3.1\SortByAge.runtimeconfig.dev.json
+C:\Users\ASUS\Desktop\C#\SortByAge\SortByAge\bin\Debug\netcoreapp3.1\SortByAge.dll
+C:\Users\ASUS\Desktop\C#\SortByAge\SortByAge\bin\Debug\netcoreapp3.1\SortByAge.pdb
+C:\Users\ASUS\Desktop\C#\SortByAge\SortByAge\obj\Debug\netcoreapp3.1\SortByAge.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\C#\SortByAge\SortByAge\obj\Debug\netcoreapp3.1\SortByAge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\C#\SortByAge\SortByAge\obj\Debug\netcoreapp3.1\SortByAge.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\C#\SortByAge\SortByAge\obj\Debug\netcoreapp3.1\SortByAge.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\C#\SortByAge\SortByAge\obj\Debug\netcoreapp3.1\SortByAge.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\C#\SortByAge\SortByAge\obj\Debug\netcoreapp3.1\SortByAge.dll
+C:\Users\ASUS\Desktop\C#\SortByAge\SortByAge\obj\Debug\netcoreapp3.1\SortByAge.pdb
+C:\Users\ASUS\Desktop\C#\SortByAge\SortByAge\obj\Debug\netcoreapp3.1\SortByAge.genruntimeconfig.cache
